@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md5502&label=Profile%20views&color=0e75b6&style=flat" alt="md5502" /> </p>
 
-- 🌱 I’m currently learning **AI Computer Vision**
+- 🌱 I’m currently learning **backend**
 
 - 💬 Ask me about **Python**
 
